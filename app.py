@@ -183,6 +183,5 @@ def index():
           V[0], " para SUR 2 ", V[1], "para SUR 3 ", V[2], " para SUR 4 ", V[3], " para CENTRO ", V[4])
     return render_template('index.html', v0=V[0])
 
-
 if __name__ == '__main__':
     app.run(port=5000)
