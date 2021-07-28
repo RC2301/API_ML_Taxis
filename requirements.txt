@@ -140,7 +140,7 @@ keras-utils==1.0.13
 # notebook @ file:///C:/ci/notebook_1601501643625/work
 # numba==0.51.2
 # numexpr==2.7.1
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+# numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
 # numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 # oauthlib==3.1.1
 # olefile==0.46
