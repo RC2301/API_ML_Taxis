@@ -181,7 +181,7 @@ def index():
     V = [R25, R26, R27, R28, R29]
     print("El Viernes esta asignado para SUR 1 ",
           V[0], " para SUR 2 ", V[1], "para SUR 3 ", V[2], " para SUR 4 ", V[3], " para CENTRO ", V[4])
-    return render_template('home.html', v0=V[0])
+    return render_template('index.html', v0=V[0])
 
 
 if __name__ == '__main__':
