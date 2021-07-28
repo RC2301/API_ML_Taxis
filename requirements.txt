@@ -207,7 +207,7 @@ Flask==1.1.2
 # qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
 # QtPy==1.9.0
 # regex @ file:///C:/ci/regex_1602770567298/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+# requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 requests-oauthlib==1.3.0
 # rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 # rsa==4.7.2
