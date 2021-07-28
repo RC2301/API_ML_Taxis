@@ -73,7 +73,7 @@ Flask==1.1.2
 # google-pasta==0.2.0
 # greenlet @ file:///C:/ci/greenlet_1600885448389/work
 # grpcio==1.34.1
-# gunicorn==20.1.0
+gunicorn==20.1.0
 # h5py==3.1.0
 # HeapDict==1.0.1
 # html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
